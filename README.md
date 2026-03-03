@@ -1,3 +1,3 @@
 # Практика ООП
 ## Кравченко Ярослав 35 група
-[### Завдання 1](https://github.com/Yarickkk/-1)
+### [Завдання 1](https://github.com/Yarickkk/-1)
