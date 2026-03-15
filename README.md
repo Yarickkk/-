@@ -5,3 +5,4 @@
 ### [Завдання 3](https://github.com/Yarickkk/zav3)
 ### [Завдання 4](https://github.com/Yarickkk/zav4)
 ### [Завдання 5](https://github.com/Yarickkk/zav5)
+### [Завдання 6](https://github.com/Yarickkk/zav6)
